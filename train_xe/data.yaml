@@ -1,0 +1,7 @@
+path: D:\train_xe\data
+train: D:\train_xe\data\images\train
+val: D:\train_xe\data\images\val
+
+
+nc: 6
+names: ['bus', 'car', 'microbus', 'motorbike', 'pickup-van', 'truck']
